@@ -1,0 +1,4 @@
+index.php adalah landing page
+registrasi.php adalah halaman untuk registrasi admin
+login.php adalah halaman untuk login admin
+folder restoranrafi merupakan database
